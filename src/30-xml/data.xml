@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<people>
+	<person id='1'>
+		<name>Param Siddharth</name>
+		<class>15</class>
+	</person>
+	<person id='2'>
+		<name>Kabir</name>
+		<class>9</class>
+	</person>
+	<person id='3'>
+		<name>Hanuman</name>
+		<class>200</class>
+	</person>
+</people>
