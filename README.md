@@ -1,4 +1,4 @@
-# GopherLabs
-Practising Go using the exercises [here](https://gopherlabs.kubedaily.com/documentation/readme.html).
+# गोफ़र-शाला
+[यहाँ](https://gopherlabs.kubedaily.com/documentation/readme.html) दिये गए अभ्यासों द्वारा गो का अभ्यास ।
 
-# Made with ❤ by [Param](https://www.paramsid.com).
+# ❤ से [परम](https://www.paramsid.com) द्वारा निर्मित ।
